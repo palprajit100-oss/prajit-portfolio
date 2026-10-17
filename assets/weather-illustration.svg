@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img">
+  <defs><linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe49b"/><stop offset="1" stop-color="#ffb66e"/></linearGradient><linearGradient id="cloud" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6f7ff"/><stop offset="1" stop-color="#91c9e8"/></linearGradient></defs>
+  <circle cx="190" cy="66" r="35" fill="url(#sun)"/>
+  <g stroke="#ffd98b" stroke-width="4" stroke-linecap="round"><path d="M190 14v-9M190 118v-9M138 66h-9M251 66h-9M153 29l-7-7M234 110l-7-7M227 29l7-7M153 103l-7 7"/></g>
+  <path d="M75 119c-24 0-40-15-40-35 0-18 15-33 34-33 7-27 29-43 55-39 23 4 38 22 39 44 22 1 38 17 38 37 0 15-12 26-29 26z" fill="url(#cloud)"/>
+  <g fill="#6ee7f9"><path d="M78 137l-9 19h12l-6 18 19-25H82l8-12z"/><path d="M124 137l-9 19h12l-6 18 19-25h-12l8-12z"/></g>
+</svg>
